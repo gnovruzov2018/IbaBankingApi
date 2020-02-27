@@ -1,0 +1,16 @@
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.RazorAssemblyInfo.cache
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.RazorAssemblyInfo.cs
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.AssemblyInfoInputs.cache
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.AssemblyInfo.cs
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\IbaBankingApi.deps.json
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\IbaBankingApi.runtimeconfig.json
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\IbaBankingApi.runtimeconfig.dev.json
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\IbaBankingApi.dll
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\bin\Debug\netcoreapp2.1\IbaBankingApi.pdb
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.csprojAssemblyReference.cache
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.RazorTargetAssemblyInfo.cache
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.dll
+D:\Old.D\Coding\asp .net\NET-core\IbaBankingApi\IbaBankingApi\obj\Debug\netcoreapp2.1\IbaBankingApi.pdb
